@@ -1,0 +1,402 @@
+{
+  "1": {
+    "crypto_name": "Bitcoin",
+    "crypto_price": 7999.82
+  },
+  "2": {
+    "crypto_name": "Ethereum",
+    "crypto_price": 257.56
+  },
+  "3": {
+    "crypto_name": "XRP",
+    "crypto_price": 0.408811
+  },
+  "4": {
+    "crypto_name": "Bitcoin Cash",
+    "crypto_price": 421.3
+  },
+  "5": {
+    "crypto_name": "Litecoin",
+    "crypto_price": 95.37
+  },
+  "6": {
+    "crypto_name": "EOS",
+    "crypto_price": 6.35
+  },
+  "7": {
+    "crypto_name": "Binance Coin",
+    "crypto_price": 29.07
+  },
+  "8": {
+    "crypto_name": "Tether",
+    "crypto_price": 1.01
+  },
+  "9": {
+    "crypto_name": "Stellar",
+    "crypto_price": 0.140049
+  },
+  "10": {
+    "crypto_name": "Cardano",
+    "crypto_price": 0.085806
+  },
+  "11": {
+    "crypto_name": "TRON",
+    "crypto_price": 0.029042
+  },
+  "12": {
+    "crypto_name": "Monero",
+    "crypto_price": 87.42
+  },
+  "13": {
+    "crypto_name": "Dash",
+    "crypto_price": 154.1
+  },
+  "14": {
+    "crypto_name": "Bitcoin SV",
+    "crypto_price": 65.42
+  },
+  "15": {
+    "crypto_name": "IOTA",
+    "crypto_price": 0.418421
+  },
+  "16": {
+    "crypto_name": "Tezos",
+    "crypto_price": 1.75
+  },
+  "17": {
+    "crypto_name": "Cosmos",
+    "crypto_price": 5.03
+  },
+  "18": {
+    "crypto_name": "Ethereum Classic",
+    "crypto_price": 7.68
+  },
+  "19": {
+    "crypto_name": "NEM",
+    "crypto_price": 0.09282
+  },
+  "20": {
+    "crypto_name": "NEO",
+    "crypto_price": 11.6
+  },
+  "21": {
+    "crypto_name": "Ontology",
+    "crypto_price": 1.42
+  },
+  "22": {
+    "crypto_name": "Maker",
+    "crypto_price": 680.99
+  },
+  "23": {
+    "crypto_name": "Zcash",
+    "crypto_price": 76.63
+  },
+  "24": {
+    "crypto_name": "Basic Attenti...",
+    "crypto_price": 0.388346
+  },
+  "25": {
+    "crypto_name": "VeChain",
+    "crypto_price": 0.007951
+  },
+  "26": {
+    "crypto_name": "Crypto.com Chain",
+    "crypto_price": 0.067889
+  },
+  "27": {
+    "crypto_name": "Bitcoin Gold",
+    "crypto_price": 22.31
+  },
+  "28": {
+    "crypto_name": "Dogecoin",
+    "crypto_price": 0.003137
+  },
+  "29": {
+    "crypto_name": "USD Coin",
+    "crypto_price": 1.0
+  },
+  "30": {
+    "crypto_name": "Chainlink",
+    "crypto_price": 1.02
+  },
+  "31": {
+    "crypto_name": "Decred",
+    "crypto_price": 31.15
+  },
+  "32": {
+    "crypto_name": "Qtum",
+    "crypto_price": 3.16
+  },
+  "33": {
+    "crypto_name": "OmiseGO",
+    "crypto_price": 1.91
+  },
+  "34": {
+    "crypto_name": "Waves",
+    "crypto_price": 2.47
+  },
+  "35": {
+    "crypto_name": "Augur",
+    "crypto_price": 22.31
+  },
+  "36": {
+    "crypto_name": "TrueUSD",
+    "crypto_price": 1.0
+  },
+  "37": {
+    "crypto_name": "Nano",
+    "crypto_price": 1.82
+  },
+  "38": {
+    "crypto_name": "Lisk",
+    "crypto_price": 2.04
+  },
+  "39": {
+    "crypto_name": "BitTorrent",
+    "crypto_price": 0.001092
+  },
+  "40": {
+    "crypto_name": "Holo",
+    "crypto_price": 0.001591
+  },
+  "41": {
+    "crypto_name": "Ravencoin",
+    "crypto_price": 0.057171
+  },
+  "42": {
+    "crypto_name": "0x",
+    "crypto_price": 0.333628
+  },
+  "43": {
+    "crypto_name": "Paxos Standar...",
+    "crypto_price": 1.0
+  },
+  "44": {
+    "crypto_name": "Bitcoin Diamond",
+    "crypto_price": 1.02
+  },
+  "45": {
+    "crypto_name": "BitShares",
+    "crypto_price": 0.068684
+  },
+  "46": {
+    "crypto_name": "Verge",
+    "crypto_price": 0.011566
+  },
+  "47": {
+    "crypto_name": "ICON",
+    "crypto_price": 0.390467
+  },
+  "48": {
+    "crypto_name": "Bytecoin",
+    "crypto_price": 0.000933
+  },
+  "49": {
+    "crypto_name": "Zilliqa",
+    "crypto_price": 0.01932
+  },
+  "50": {
+    "crypto_name": "Pundi X",
+    "crypto_price": 0.000749
+  },
+  "51": {
+    "crypto_name": "DigiByte",
+    "crypto_price": 0.013197
+  },
+  "52": {
+    "crypto_name": "IOST",
+    "crypto_price": 0.012425
+  },
+  "53": {
+    "crypto_name": "Aeternity",
+    "crypto_price": 0.544995
+  },
+  "54": {
+    "crypto_name": "Siacoin",
+    "crypto_price": 0.003365
+  },
+  "55": {
+    "crypto_name": "Aurora",
+    "crypto_price": 0.020839
+  },
+  "56": {
+    "crypto_name": "Huobi Token",
+    "crypto_price": 2.7
+  },
+  "57": {
+    "crypto_name": "Komodo",
+    "crypto_price": 1.17
+  },
+  "58": {
+    "crypto_name": "ABBC Coin",
+    "crypto_price": 0.255839
+  },
+  "59": {
+    "crypto_name": "Bytom",
+    "crypto_price": 0.124564
+  },
+  "60": {
+    "crypto_name": "Insight Chain",
+    "crypto_price": 0.342152
+  },
+  "61": {
+    "crypto_name": "Qubitica",
+    "crypto_price": 42.21
+  },
+  "62": {
+    "crypto_name": "Enjin Coin",
+    "crypto_price": 0.153127
+  },
+  "63": {
+    "crypto_name": "Steem",
+    "crypto_price": 0.365601
+  },
+  "64": {
+    "crypto_name": "THETA",
+    "crypto_price": 0.11982
+  },
+  "65": {
+    "crypto_name": "ThoreCoin",
+    "crypto_price": 1182.72
+  },
+  "66": {
+    "crypto_name": "KuCoin Shares",
+    "crypto_price": 1.06
+  },
+  "67": {
+    "crypto_name": "Waltonchain",
+    "crypto_price": 2.22
+  },
+  "68": {
+    "crypto_name": "Status",
+    "crypto_price": 0.026538
+  },
+  "69": {
+    "crypto_name": "Stratis",
+    "crypto_price": 0.903443
+  },
+  "70": {
+    "crypto_name": "Cryptonex",
+    "crypto_price": 1.59
+  },
+  "71": {
+    "crypto_name": "Golem",
+    "crypto_price": 0.090859
+  },
+  "72": {
+    "crypto_name": "Factom",
+    "crypto_price": 8.99
+  },
+  "73": {
+    "crypto_name": "Dai",
+    "crypto_price": 1.01
+  },
+  "74": {
+    "crypto_name": "MaidSafeCoin",
+    "crypto_price": 0.176317
+  },
+  "75": {
+    "crypto_name": "aelf",
+    "crypto_price": 0.221313
+  },
+  "76": {
+    "crypto_name": "Horizen",
+    "crypto_price": 12.19
+  },
+  "77": {
+    "crypto_name": "Dent",
+    "crypto_price": 0.001137
+  },
+  "78": {
+    "crypto_name": "Crypto.com",
+    "crypto_price": 4.97
+  },
+  "79": {
+    "crypto_name": "Mixin",
+    "crypto_price": 175.16
+  },
+  "80": {
+    "crypto_name": "VestChain",
+    "crypto_price": 0.010919
+  },
+  "81": {
+    "crypto_name": "Ardor",
+    "crypto_price": 0.077296
+  },
+  "82": {
+    "crypto_name": "Project Pai",
+    "crypto_price": 0.052998
+  },
+  "83": {
+    "crypto_name": "DigixDAO",
+    "crypto_price": 36.41
+  },
+  "84": {
+    "crypto_name": "TrueChain",
+    "crypto_price": 0.906881
+  },
+  "85": {
+    "crypto_name": "MonaCoin",
+    "crypto_price": 1.08
+  },
+  "86": {
+    "crypto_name": "SOLVE",
+    "crypto_price": 0.300497
+  },
+  "87": {
+    "crypto_name": "Aion",
+    "crypto_price": 0.218592
+  },
+  "88": {
+    "crypto_name": "Ark",
+    "crypto_price": 0.6003
+  },
+  "89": {
+    "crypto_name": "WAX",
+    "crypto_price": 0.070172
+  },
+  "90": {
+    "crypto_name": "GXChain",
+    "crypto_price": 1.09
+  },
+  "91": {
+    "crypto_name": "Arcblock",
+    "crypto_price": 0.637749
+  },
+  "92": {
+    "crypto_name": "Santiment Net...",
+    "crypto_price": 0.988085
+  },
+  "93": {
+    "crypto_name": "Clams",
+    "crypto_price": 16.96
+  },
+  "94": {
+    "crypto_name": "LATOKEN",
+    "crypto_price": 0.160975
+  },
+  "95": {
+    "crypto_name": "Decentraland",
+    "crypto_price": 0.057449
+  },
+  "96": {
+    "crypto_name": "HyperCash",
+    "crypto_price": 1.33
+  },
+  "97": {
+    "crypto_name": "ReddCoin",
+    "crypto_price": 0.001993
+  },
+  "98": {
+    "crypto_name": "Metaverse ETP",
+    "crypto_price": 0.788346
+  },
+  "99": {
+    "crypto_name": "Loopring",
+    "crypto_price": 0.062684
+  },
+  "100": {
+    "crypto_name": "Loom Network",
+    "crypto_price": 0.070701
+  }
+}
