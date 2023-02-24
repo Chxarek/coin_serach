@@ -1,7 +1,7 @@
 import sqlite3, re, json
 from db_crypto_currency import db_name, fields, d, upd_db
 
-upd_db()            #getting the results from db_crypto_currency.py
+qupd_db()            #getting the results from db_crypto_currency.py
 
 
 number = int(input('Number of coins: '))
